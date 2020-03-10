@@ -1,0 +1,160 @@
+{
+  "GUID": "aaa-bbb-ccc-ddd",
+  "project": "primer",
+  "subproject": "testSub",
+  "task": "testTask",
+  "description": "primer",
+  "author": "DjordjeMitrovic",
+  "grade": 3,
+  "time": "2019-07-09 18:36:49",
+  "inputs": {
+    "KJ2": 3.803e-9,
+    "KJ3": 5.5037e-9,
+    "KJ4": 4.6046e-9,
+    "KJ5": 6.5279e-9,
+    "KJ6": 6.5404e-9,
+    "KJ7": 6.5827e-9,
+    "KJ8": 1.8875e-10,
+    "KJ9": 1.5222e-9,
+    "KJ10": 5.4505e-10,
+    "KJ11": 5.6077e-9,
+    "KJ12": 5.49e-9,
+    "KG1": 5.0158e-8,
+    "KG2": 0.0000094886,
+    "KK1": 9.1848e-7,
+    "KK2": 1.0504e-7,
+    "KD": 0.00001,
+    "KN": 0.00001,
+    "KBIG": 0.0000062179,
+    "KBOT": 0.0000023571,
+    "KIZP1": 2.3847e-7,
+    "KIZP2": 6.6191e-7,
+    "KIZP3": 5.506e-7,
+    "KIZP4": 6.27e-7,
+    "KIZP5": 3.3626e-7,
+    "KIZP6": 3.0133e-7,
+    "KIZP7": 9.2243e-7,
+    "KIZP8": 8.7588e-7,
+    "KIZP9": 2.9408e-7,
+    "KIZP10": 1.1548e-7,
+    "KIZP11": 1.0857e-7,
+    "KIZP12": 4.9748e-7,
+    "KIZD1": 5.8234e-7,
+    "KIZD2": 8.0047e-7,
+    "KIZD3": 2.5933e-7,
+    "KIZD4": 9.1927e-7,
+    "KIZD5": 9.236e-7,
+    "KIZD6": 9.5345e-7,
+    "KIZD7": 4.1801e-7,
+    "KIZD8": 5.4114e-7,
+    "KIZD9": 2.4101e-7,
+    "KIZD10": 7.3418e-7,
+    "KIZD11": 4.5658e-7,
+    "KIZD12": 8.8541e-7,
+    "KS1": 0.00043914,
+    "KS2": 0.00044787,
+    "KS3": 0.00013354,
+    "KS4": 8.7374e-8,
+    "KD1": 0.000020206,
+    "KZ": 1e-14
+  },
+  "outputs": {
+    "KB-1-1": 1189.92,
+    "P-1-1": 1189.64,
+    "P-2-1": 1189.01,
+    "P-3-1": 1188.71,
+    "P-4-1": 1190.13,
+    "P-5-1": 1189.6,
+    "P-6-1": 1189.41,
+    "PM-1-1": 1200.14,
+    "PM-2-1": 1209.87,
+    "PM-3-1": 1190.18,
+    "PM-4-1": 1209.83,
+    "PM-5-1": 1201.11,
+    "PM-6-1": 1209.98,
+    "PM-7-1": 1193.32,
+    "MM-1-2": -0.0000067182,
+    "MM-4-2": -0.011019,
+    "MM-G-2": -0.00074201,
+    "SB-2": -0.0057277,
+    "D-2": -0.0014646
+  },
+  "dictionary": {
+    "KB-1-1": [
+      "KB-1",
+      "pijeznivoPAK.csv"
+    ],
+    "P-1-1": [
+      "P-1",
+      "pijeznivoPAK.csv"
+    ],
+    "P-2-1": [
+      "P-2",
+      "pijeznivoPAK.csv"
+    ],
+    "P-3-1": [
+      "P-3",
+      "pijeznivoPAK.csv"
+    ],
+    "P-4-1": [
+      "P-4",
+      "pijeznivoPAK.csv"
+    ],
+    "P-5-1": [
+      "P-5",
+      "pijeznivoPAK.csv"
+    ],
+    "P-6-1": [
+      "P-6",
+      "pijeznivoPAK.csv"
+    ],
+    "PM-1-1": [
+      "PM-1",
+      "pijeznivoPAK.csv"
+    ],
+    "PM-2-1": [
+      "PM-2",
+      "pijeznivoPAK.csv"
+    ],
+    "PM-3-1": [
+      "PM-3",
+      "pijeznivoPAK.csv"
+    ],
+    "PM-4-1": [
+      "PM-4",
+      "pijeznivoPAK.csv"
+    ],
+    "PM-5-1": [
+      "PM-5",
+      "pijeznivoPAK.csv"
+    ],
+    "PM-6-1": [
+      "PM-6",
+      "pijeznivoPAK.csv"
+    ],
+    "PM-7-1": [
+      "PM-7",
+      "pijeznivoPAK.csv"
+    ],
+    "MM-1-2": [
+      "MM-1",
+      "proticajPAK.csv"
+    ],
+    "MM-4-2": [
+      "MM-4",
+      "proticajPAK.csv"
+    ],
+    "MM-G-2": [
+      "MM-G",
+      "proticajPAK.csv"
+    ],
+    "SB-2": [
+      "SB",
+      "proticajPAK.csv"
+    ],
+    "D-2": [
+      "D",
+      "proticajPAK.csv"
+    ]
+  }
+}
